@@ -1,0 +1,28 @@
+﻿  IPPackging.cpp
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(210): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(216): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(220): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(222): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(223): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(224): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(225): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(233): warning C4554: '>>' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(244): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(246): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(248): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(252): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(273): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(227) : definition of 'i' ignored
+          e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(206) : definition of 'i' used
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(291): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(295): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(297): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(298): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(299): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(300): warning C4554: '<<' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(308): warning C4554: '>>' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(354): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(356): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(358): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+e:\liuyuhan\study\ustb\junior\computer network\course design\homework1\ippackging\ippackging\ippackging.cpp(362): warning C4244: '=' : conversion from 'u_short' to 'u_char', possible loss of data
+  IPPackging.vcxproj -> E:\LiuYuhan\Study\USTB\Junior\Computer Network\Course Design\Homework1\IPPackging\Debug\IPPackging.exe
